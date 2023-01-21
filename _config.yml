@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -97,8 +97,9 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
+        See more information about me in <a href="http://kin-zhang.github.io/more/" target="_blank">More</a> Section. 
+        Feel Free to talk with me through email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
