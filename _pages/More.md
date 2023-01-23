@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /More/
+permalink: /more/
 title: More
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
