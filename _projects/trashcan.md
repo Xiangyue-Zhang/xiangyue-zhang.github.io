@@ -6,6 +6,7 @@ img: assets/img/trashcan/trashcan.png
 importance: 1
 category: competition
 link: true
+new_page: true
 ---
 Our team plans to launch a set of intelligent garbage classification regionalization control and management system to realize the regional management of garbage cans. Transform the traditional garbage bins in urban streets, communities, campuses and other public places to realize the functions of induction switch, intelligent classification, internal space adjustment, automatic packaging and anti-overflow, and adopt Lora technology to realize the regional control and management of garbage bins, which can improve the efficiency of garbage recovery and the degree of resource utilization.
 <div class="row">
