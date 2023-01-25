@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Cloud Mask Recognition
+description: FY4A and Satellite LiDAR Joint Cloud Mask Recognition Based on Semantic Segmentation
+img: assets/img/U-net.png
 importance: 3
-category: fun
+category: college
 ---
 
 Every project has a beautiful feature showcase page.

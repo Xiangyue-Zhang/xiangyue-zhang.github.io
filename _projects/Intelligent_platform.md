@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Intelligent platform
+description: Developed a platform for identifying ground object attributes based on deeplabv3+ model.
+img: assets/img/development_platform.png
 importance: 3
-category: fun
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.

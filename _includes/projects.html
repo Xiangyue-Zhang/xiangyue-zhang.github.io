@@ -31,11 +31,10 @@
       </div>
     </div>
   </a>
-
   {%- endif %}
 
   {% if project.pdf -%}
-  <a href="{{ project.pdf | relative_url }}" class="btn btn-sm z-depth-0" role="button">
+  <a href="{{ project.pdf | relative_url }}">
     <div class="card hoverable">
       {%- if project.img %}
       {%- include figure.html

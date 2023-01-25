@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: First prize, APMCM 
+description: Experiential Extensibility Model.Keywords:AHP, Spearman correlation analysis, Edge detection, k-means, Topsis
+img: assets/img/APMCM.png
+importance: 5
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.
